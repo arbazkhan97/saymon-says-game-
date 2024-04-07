@@ -1,0 +1,67 @@
+body{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    border: 10px solid #000;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.box{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.red{
+    background-color: red;
+    opacity: 0.75;
+}
+
+.red:hover{
+    box-shadow: 0 0 15px #fff, 
+                0 0 30px red;
+}
+.yellow{
+    background-color: yellow;
+    opacity: 0.5;
+   
+}
+.yellow:hover{
+    box-shadow: 0 0 15px #fff, 
+    0 0 30px yellow;
+}
+.purple{
+    background-color: purple;
+    opacity: 0.75;
+   
+}
+.purple:hover{
+    box-shadow: 0 0 15px #fff, 
+    0 0 30px purple;
+
+}
+.green{
+    background-color: green;
+
+    opacity: 0.75;
+}
+ .green:hover{
+       box-shadow: 0 0 15px #fff, 
+    0 0 30px green;
+
+}
+
+.gameFlash{
+    background-color: #fff;
+}
+
+.userFlash{
+    background-color: blue;
+}
