@@ -1,3 +1,3 @@
-# SAYMON sAYS GAME 
+# SAYMON SAYS GAME 
 
 this is developed my me 
